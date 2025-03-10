@@ -1,6 +1,6 @@
-nginx
 #支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+#--platform=linux/arm64 xiaoyaliu/alist
+guiji2025/fish-speech-ziming:1.0.39
+guiji2025/fun-asr:1.0.2
+guiji2025/heygem.ai:0.0.7_sdk_slim
